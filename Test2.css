@@ -1,0 +1,144 @@
+ *
+ 	{
+ 		
+ 		color: white;
+  		font-family: "Times New Roman", Times, serif;
+
+	}
+body
+  	{
+  		background: linear-gradient(to left, #517fa4, #243949);
+  		margin: 0 ;
+  	}
+  	@media only screen and (max-width: 800px)
+	{
+	  body 
+	  {
+ 		 background-image: linear-gradient(to bottom right, blue, white);
+	  }
+	  
+
+	}
+
+h1
+	{
+		  color:  linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+	}
+.containerr
+	{
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1140px;
+
+	}
+.imm
+	{
+		width: 100%;
+		background-attachment: fixed;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+.Front
+	{
+		background-image: url(Front.jpg);
+		height: 650px;
+		border-radius: 8px;
+	}
+.sec1
+	{
+		background-image: url(pic1.jpg);
+		height: 500px;
+		border-radius: 8px;
+	}
+.sec2
+	{
+		background-image: url(pic2.jpg);
+		height: 500px;
+		border-radius: 8px;
+	}
+.sec3
+	{
+		background-image: url(pic3.jpg);
+		height: 500px;	
+		border-radius: 8px;
+	}
+.sec4
+	{
+		background-image: url(pic4.jpg);
+		height: 500px;
+		border-radius: 8px;
+	}
+.sec5
+	{
+		background-image: url(pic5.jpg);
+		height: 500px;
+		border-radius: 8px;
+	}
+.center
+	{
+		margin-top: 3rem;
+		text-align: center;
+	}
+.Form
+	{
+		background-color: #669999;
+		width: 60%;
+	}
+.containerr2
+	{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1140px;
+
+	}
+.Inputs-Form
+	{
+		text-align: left;
+		padding: 2rem 0 ;
+    	font-family: inherit;
+
+
+	}
+.input-text
+	{
+	  width: 100%;
+	  border: 0;
+	  border-bottom: 2px solid  #4dd2ff;
+	  outline: 0;
+	  font-size: 1.3rem;
+	  color: white;
+	  padding: 7px 0;
+	  background: transparent;
+
+	}
+.input-text1
+	{
+	  width: 100%;
+	  border: 1px solid  #4dd2ff;
+	  outline: 0;
+	  font-size: 1.3rem;
+	  color: white;
+	  padding: 7px 0;
+	  margin-top: 2rem;
+	  background: #4dd2ff;
+	}
+.input-text1:hover
+	{
+	  border: 1px solid  #517fa4;
+	  background: #517fa4;
+
+	}
+i
+	{
+			padding: 1rem 1rem;
+			font-size: 3rem;
+	}
+a
+	{
+
+		text-decoration: none;
+	}
